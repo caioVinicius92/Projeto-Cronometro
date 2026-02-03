@@ -30,5 +30,5 @@ Glassmorphism & Efeitos: Uso de backgrounds transparentes, bordas finas e box-sh
 Transitions: Efeitos de suavização no hover dos botões para uma melhor experiência do usuário.
 
 
-✒️ Autor
-Desenvolvido com ☕ por Caio Almeida.
+# ✒️ Autor
+Desenvolvido por Caio Almeida.
