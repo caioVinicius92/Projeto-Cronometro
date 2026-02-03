@@ -2,7 +2,8 @@
 
 Um cronômetro funcional e elegante desenvolvido com HTML, CSS e JavaScript puro (Vanilla JS). O projeto apresenta uma interface minimalista com fundo dinâmico e controles de tempo em tempo real.
 
-🚀 Sobre o Projeto
+# 🚀 Sobre o Projeto:
+
 Este projeto foi criado para exercitar a manipulação do DOM e o controle de intervalos de tempo no JavaScript. Ele permite ao usuário iniciar, pausar e reiniciar a contagem, exibindo o tempo no formato padrão HH:MM:SS.
 
 Principais Funcionalidades:
@@ -12,7 +13,8 @@ Stop: Pausa o cronômetro mantendo o tempo atual.
 
 Restart: Zera o contador e interrompe a execução.
 
-🛠️ Tecnologias e Conceitos Utilizados
+# 🛠️ Tecnologias e Conceitos Utilizados:
+
 JavaScript (A alma do projeto)
 setInterval & clearInterval: Utilizados para criar o ciclo de atualização de 1 segundo e interrompê-lo quando necessário.
 
@@ -29,4 +31,4 @@ Transitions: Efeitos de suavização no hover dos botões para uma melhor experi
 
 
 ✒️ Autor
-Desenvolvido com ☕ por [Caio Almeida].
+Desenvolvido com ☕ por Caio Almeida.
